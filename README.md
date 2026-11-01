@@ -303,8 +303,5 @@ BankOps360 is an independent software engineering portfolio project and a bankin
   </a>
 </p>
 
-<p align="center">
-  <i>Developed as an independent portfolio project to demonstrate .NET software engineering, financial transaction processing, database development and system integration.</i>
-</p>
 
 ---
