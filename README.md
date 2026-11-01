@@ -294,3 +294,17 @@ BankOps360 is an independent software engineering portfolio project and a bankin
     <img src="https://img.shields.io/badge/Explore%20Source%20Code-BankOps360-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore BankOps360 on GitHub" />
   </a>
 </p>
+
+### 👨‍💻 Developer
+
+<p align="center">
+  <a href="https://github.com/aruna-kariyawasam">
+    <img src="https://img.shields.io/badge/GitHub-aruna--kariyawasam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Developed as an independent portfolio project to demonstrate .NET software engineering, financial transaction processing, database development and system integration.</i>
+</p>
+
+---
