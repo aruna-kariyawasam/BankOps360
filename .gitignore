@@ -1,0 +1,35 @@
+﻿# Visual Studio
+/.vs/
+**/bin/
+**/obj/
+**/TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+# Local configuration and secrets
+**/appsettings.Development.json
+**/appsettings.Staging.json
+**/appsettings.Production.json
+**/secrets.json
+**/.env
+**/.env.*
+!**/.env.example
+# Certificates and private keys
+*.pfx
+*.p12
+*.pem
+*.key
+# Local databases and backups
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+*.bak
+# Logs and publishing profiles
+*.log
+**/Properties/PublishProfiles/*.pubxml
+**/Properties/serviceDependencies.local.json
+**/Properties/PublishProfiles/
+**/Properties/serviceDependencies*.json
