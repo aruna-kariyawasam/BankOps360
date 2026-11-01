@@ -65,16 +65,6 @@ BankOps360
   <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🧪 Testing & Verification
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tests-7%2F7%20Passed-2EA44F?style=for-the-badge" alt="7 out of 7 tests passed" />
-  <img src="https://img.shields.io/badge/Release%20Build-Passing-2EA44F?style=for-the-badge" alt="Release build passing" />
-  <img src="https://img.shields.io/badge/NuGet%20Security%20Scan-No%20Findings-2EA44F?style=for-the-badge" alt="No vulnerable packages reported" />
-</p>
-
-The automated integration tests cover deposits, withdrawals, internal transfers, ledger entries, insufficient funds and duplicate transaction protection.
-
 ### ⚙️ Getting Started
 
 **Prerequisites:** Visual Studio 2022, .NET 8 SDK and SQL Server LocalDB.
@@ -113,4 +103,3 @@ This is an educational and portfolio demonstration, not a production banking sys
 </p>
 
 ---
-<p align="center"><i>Building practical software solutions through engineering and continuous learning.</i></p>
